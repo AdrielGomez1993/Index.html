@@ -1,14 +1,16 @@
-h1{
+*{
     padding: 16px;
     margin:0%;
     text-align: center;
-    background-color: gray;
+    background-color: rgb(68, 68, 68);
+    border-radius: 5px 5px 5px 5px;
+    color: white;
 }
 nav ul {
     list-style: none;
 }
 
 nav ul li a{
-    color: black;
+    color: white;
     text-decoration: none;
 }
