@@ -34,3 +34,16 @@ nav ul li a:hover{
     color:#333;
     border-radius: 5px 5px 5px 5px;
 }
+section{
+    padding: 32px 0;
+}
+section h2, section p, section ul{
+    text-align: center;
+    color: #333;
+}
+section p{
+    padding: 0 40px;
+}
+section ul li{
+    padding: 8px 0;
+}
